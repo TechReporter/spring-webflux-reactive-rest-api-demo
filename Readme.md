@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/TechReporter/spring-webflux-reactive-rest-api-demo.svg?branch=master)](https://travis-ci.com/TechReporter/spring-webflux-reactive-rest-api-demo)
+
 # Build Reactive Rest APIs with Spring WebFlux and Reactive MongoDB
 
 Read the tutorial : https://www.callicoder.com/reactive-rest-apis-spring-webflux-reactive-mongo/
